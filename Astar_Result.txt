@@ -1,0 +1,455 @@
+Timestamp: 2026-07-17  07:11:39 PM
+Source: 1356, Destination: 264Optimal Path: [1356, 1355, 503, 502, 252, 265, 264]
+Total Nodes: 7
+Total Distance: 165.30 km
+Total Travel Time: 223.78 Minutes
+Energy Consumed: 54.39 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $27.20
+Final Battery: 25.61%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0038 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:14:58 PM
+Source: 731, Destination: 160Optimal Path: [731, 732, 733, 816, 370, 859, 944, 160]
+Total Nodes: 8
+Total Distance: 196.29 km
+Total Travel Time: 275.50 Minutes
+Energy Consumed: 63.90 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $31.95
+Final Battery: 16.10%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:16:12 PM
+Source: 379, Destination: 96Optimal Path: [379, 380, 381, 382, 96]
+Total Nodes: 5
+Total Distance: 123.48 km
+Total Travel Time: 179.82 Minutes
+Energy Consumed: 39.98 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $19.99
+Final Battery: 40.02%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:16:39 PM
+Source: 68, Destination: 35Optimal Path: [68, 67, 360, 359, 155, 128, 186, 159, 87, 88, 344, 33, 337, 35]
+Total Nodes: 14
+Total Distance: 375.82 km
+Total Travel Time: 806.59 Minutes
+Energy Consumed: 116.19 kWh
+Energy Charged: 80.85 kWh
+Charging Cost: $44.47
+Total Cost: $104.78
+Final Battery: 44.66%
+Current Energy Rate: $0.54/kWh
+Charging Plan:
+Full Charge at node 186
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:17:25 PM
+Source: 251, Destination: 66Optimal Path: [251, 250, 202, 201, 154, 155, 328, 66]
+Total Nodes: 8
+Total Distance: 197.40 km
+Total Travel Time: 323.46 Minutes
+Energy Consumed: 62.41 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $31.21
+Final Battery: 17.59%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0014 seconds
+------------------------------------------------
+------------###########800 nodes----------------------------
+Timestamp: 2026-07-17  07:19:06 PM
+Source: 640, Destination: 201Optimal Path: [640, 641, 642, 557, 181, 140, 201]
+Total Nodes: 7
+Total Distance: 176.24 km
+Total Travel Time: 345.47 Minutes
+Energy Consumed: 53.29 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $26.65
+Final Battery: 26.71%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:19:36 PM
+Source: 87, Destination: 95Optimal Path: [87, 86, 477, 128, 279, 336, 337, 95]
+Total Nodes: 8
+Total Distance: 228.14 km
+Total Travel Time: 399.63 Minutes
+Energy Consumed: 71.49 kWh
+Energy Charged: 20.00 kWh
+Charging Cost: $4.40
+Total Cost: $37.50
+Final Battery: 28.51%
+Current Energy Rate: $0.40/kWh
+Charging Plan:
+Cost Optimization at node 336
+Execution Time: 0.0016 seconds
+------------------------------------------------
+---------## 1200 nodes------------------------Timestamp: 2026-07-17  07:32:40 PM
+Source: 755, Destination: 417Optimal Path: [755, 756, 757, 841, 840, 424, 417]
+Total Nodes: 7
+Total Distance: 170.72 km
+Total Travel Time: 294.22 Minutes
+Energy Consumed: 53.41 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $26.71
+Final Battery: 26.59%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:36:13 PM
+Source: 584, Destination: 1084Optimal Path: [584, 583, 668, 669, 1168, 1169, 252, 864, 789, 781, 316, 1084]
+Total Nodes: 12
+Total Distance: 309.39 km
+Total Travel Time: 675.78 Minutes
+Energy Consumed: 95.65 kWh
+Energy Charged: 84.71 kWh
+Charging Cost: $17.79
+Total Cost: $47.88
+Final Battery: 29.06%
+Current Energy Rate: $0.25/kWh
+Charging Plan:
+Full Charge at node 669
+Execution Time: 0.0000 seconds
+------------------------------------------------
+------------### 1600 nodes---------------------
+Timestamp: 2026-07-17  07:37:32 PM
+Source: 490, Destination: 792Optimal Path: [490, 491, 285, 45, 892, 269, 1062, 1061, 58, 961, 550, 387, 792]
+Total Nodes: 13
+Total Distance: 341.65 km
+Total Travel Time: 653.72 Minutes
+Energy Consumed: 108.57 kWh
+Energy Charged: 81.57 kWh
+Charging Cost: $31.81
+Total Cost: $80.07
+Final Battery: 33.00%
+Current Energy Rate: $0.41/kWh
+Charging Plan:
+Full Charge at node 892
+Execution Time: 0.0119 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:38:05 PM
+Source: 349, Destination: 1322Optimal Path: [349, 350, 1159, 346, 1322]
+Total Nodes: 5
+Total Distance: 98.55 km
+Total Travel Time: 148.03 Minutes
+Energy Consumed: 31.38 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $15.69
+Final Battery: 28.62%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0020 seconds
+------------------------------------------------
+Timestamp: 2026-07-17  07:43:55 PM
+Source: 142, Destination: 1373Optimal Path: [142, 143, 144, 917, 1459, 1467, 1373]
+Total Nodes: 7
+Total Distance: 169.47 km
+Total Travel Time: 300.60 Minutes
+Energy Consumed: 52.82 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $26.41
+Final Battery: 7.18%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+
+-############## 400 nodes with Alhpa ###################
+Timestamp: 2026-07-31  11:56:10 AM
+Source: 105, Destination: 140Optimal Path: [105, 104, 103, 126, 110, 84, 207, 269, 95, 79, 80, 140]
+Total Nodes: 12
+Total Distance: 316.95 km
+Total Travel Time: 600.11 Minutes
+Energy Consumed: 98.15 kWh
+Energy Charged: 40.08 kWh
+Charging Cost: $23.64
+Total Cost: $75.84
+Final Battery: 21.92%
+Current Energy Rate: $0.54/kWh
+Charging Plan:
+Full Charge at node 126
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-31  11:56:26 AM
+Source: 321, Destination: 360Optimal Path: [321, 320, 77, 167, 372, 360]
+Total Nodes: 6
+Total Distance: 176.28 km
+Total Travel Time: 265.75 Minutes
+Energy Consumed: 57.03 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $28.51
+Final Battery: 22.97%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-07-31  11:56:45 AM
+Source: 238, Destination: 184Optimal Path: [238, 237, 383, 77, 270, 269, 184]
+Total Nodes: 7
+Total Distance: 94.08 km
+Total Travel Time: 212.84 Minutes
+Energy Consumed: 28.69 kWh
+Energy Charged: 28.18 kWh
+Charging Cost: $7.21
+Total Cost: $20.07
+Final Battery: 79.49%
+Current Energy Rate: $0.44/kWh
+Charging Plan:
+Cost Optimization at node 237
+Cost Optimization at node 383
+Execution Time: 0.0044 seconds
+------------------------------------------------
+Timestamp: 2026-07-31  11:57:00 AM
+Source: 22, Destination: 68Optimal Path: [22, 21, 149, 30, 31, 303, 225, 226, 245, 68]
+Total Nodes: 10
+Total Distance: 273.15 km
+Total Travel Time: 564.71 Minutes
+Energy Consumed: 85.23 kWh
+Energy Charged: 70.38 kWh
+Charging Cost: $39.41
+Total Cost: $83.42
+Final Battery: 65.15%
+Current Energy Rate: $0.54/kWh
+Charging Plan:
+Full Charge at node 303
+Execution Time: 0.0013 seconds
+------------------------------------------------
+
+-############## 800 nodes with Alhpa ###################
+Timestamp: 2026-08-01  01:40:42 PM
+Source: 622, Destination: 702Optimal Path: [622, 621, 620, 619, 788, 221, 1, 552, 42, 43, 209, 172, 34, 737, 176, 48, 722, 584, 702]
+Total Nodes: 19
+Total Distance: 492.63 km
+Total Travel Time: 952.09 Minutes
+Energy Consumed: 153.88 kWh
+Energy Charged: 80.84 kWh
+Charging Cost: $21.02
+Total Cost: $80.28
+Final Battery: 6.95%
+Current Energy Rate: $0.31/kWh
+Charging Plan:
+Full Charge at node 42
+Execution Time: 0.0021 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  01:41:34 PM
+Source: 681, Destination: 202Optimal Path: [681, 680, 26, 27, 228, 581, 514, 590, 262, 783, 716, 338, 202]
+Total Nodes: 13
+Total Distance: 354.20 km
+Total Travel Time: 705.21 Minutes
+Energy Consumed: 110.30 kWh
+Energy Charged: 50.94 kWh
+Charging Cost: $10.70
+Total Cost: $53.94
+Final Battery: 20.65%
+Current Energy Rate: $0.35/kWh
+Charging Plan:
+Full Charge at node 27
+Execution Time: 0.0010 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  01:41:55 PM
+Source: 466, Destination: 545Optimal Path: [466, 465, 416, 417, 497, 373, 374, 767, 289, 329, 37, 545]
+Total Nodes: 12
+Total Distance: 286.95 km
+Total Travel Time: 582.11 Minutes
+Energy Consumed: 89.50 kWh
+Energy Charged: 80.31 kWh
+Charging Cost: $17.67
+Total Cost: $56.00
+Final Battery: 70.80%
+Current Energy Rate: $0.28/kWh
+Charging Plan:
+Full Charge at node 374
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  01:42:08 PM
+Source: 327, Destination: 201Optimal Path: [327, 328, 78, 77, 199, 449, 448, 201]
+Total Nodes: 8
+Total Distance: 182.99 km
+Total Travel Time: 285.05 Minutes
+Energy Consumed: 58.34 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $29.17
+Final Battery: 21.66%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0014 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  01:42:30 PM
+Source: 515, Destination: 367Optimal Path: [515, 514, 513, 619, 367]
+Total Nodes: 5
+Total Distance: 134.60 km
+Total Travel Time: 184.41 Minutes
+Energy Consumed: 43.93 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $21.96
+Final Battery: 36.07%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  01:43:10 PM
+Source: 447, Destination: 631Optimal Path: [447, 446, 97, 98, 99, 100, 6, 631]
+Total Nodes: 8
+Total Distance: 162.76 km
+Total Travel Time: 270.06 Minutes
+Energy Consumed: 51.04 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $25.52
+Final Battery: 28.96%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0010 seconds
+------------------------------------------------
+
+-############## 1200 nodes with Alhpa ###################Timestamp: 2026-08-01  02:28:27 PM
+Source: 824, Destination: 573Optimal Path: [824, 823, 32, 33, 428, 427, 961, 573]
+Total Nodes: 8
+Total Distance: 151.20 km
+Total Travel Time: 236.24 Minutes
+Energy Consumed: 48.76 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $24.38
+Final Battery: 11.24%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  02:28:52 PM
+Source: 482, Destination: 2Optimal Path: [482, 481, 480, 853, 2]
+Total Nodes: 5
+Total Distance: 76.41 km
+Total Travel Time: 115.35 Minutes
+Energy Consumed: 24.21 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $12.10
+Final Battery: 65.79%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  02:29:24 PM
+Source: 165, Destination: 1177Optimal Path: [165, 164, 863, 864, 892, 1177]
+Total Nodes: 6
+Total Distance: 129.20 km
+Total Travel Time: 227.50 Minutes
+Energy Consumed: 39.92 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $19.96
+Final Battery: 40.08%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0035 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  02:29:34 PM
+Source: 674, Destination: 448Optimal Path: [674, 675, 304, 546, 547, 729, 1091, 459, 1198, 159, 448]
+Total Nodes: 11
+Total Distance: 232.45 km
+Total Travel Time: 472.56 Minutes
+Energy Consumed: 70.20 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $35.10
+Final Battery: 9.80%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  02:29:58 PM
+Source: 248, Destination: 366Optimal Path: [248, 247, 799, 798, 367, 366]
+Total Nodes: 6
+Total Distance: 171.84 km
+Total Travel Time: 247.44 Minutes
+Energy Consumed: 55.30 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $27.65
+Final Battery: 24.70%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  02:30:15 PM
+Source: 1189, Destination: 1135Optimal Path: [1189, 1190, 208, 769, 250, 709, 1184, 1135]
+Total Nodes: 8
+Total Distance: 164.38 km
+Total Travel Time: 255.58 Minutes
+Energy Consumed: 51.98 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $25.99
+Final Battery: 28.02%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0000 seconds
+------------------------------------------------
+
+-############## 1600 nodes with Alhpa ###################Timestamp: 2026-08-01  02:28:27 PM
+Timestamp: 2026-08-01  10:32:56 PM
+Source: 665, Destination: 545Optimal Path: [665, 664, 1255, 1256, 327, 786, 1426, 190, 250, 436, 270, 571, 551, 1210, 545]
+Total Nodes: 15
+Total Distance: 416.14 km
+Total Travel Time: 854.12 Minutes
+Energy Consumed: 128.87 kWh
+Energy Charged: 83.76 kWh
+Charging Cost: $35.18
+Total Cost: $95.05
+Final Battery: 34.88%
+Current Energy Rate: $0.43/kWh
+Charging Plan:
+Full Charge at node 190
+Execution Time: 0.0099 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  10:41:39 PM
+Source: 405, Destination: 528Optimal Path: [405, 404, 617, 488, 1229, 682, 528]
+Total Nodes: 7
+Total Distance: 136.64 km
+Total Travel Time: 243.67 Minutes
+Energy Consumed: 42.21 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $21.11
+Final Battery: 37.79%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0070 seconds
+------------------------------------------------
+Timestamp: 2026-08-01  10:42:46 PM
+Source: 182, Destination: 430Optimal Path: [182, 181, 866, 867, 928, 1367, 518, 517, 430]
+Total Nodes: 9
+Total Distance: 186.59 km
+Total Travel Time: 302.18 Minutes
+Energy Consumed: 59.42 kWh
+Energy Charged: 0.00 kWh
+Charging Cost: $0.00
+Total Cost: $29.71
+Final Battery: 20.58%
+Current Energy Rate: $0.50/kWh
+Charging Plan: No Charging
+Execution Time: 0.0055 seconds
+------------------------------------------------
